@@ -74,7 +74,7 @@ O que vamos avaliar:
 
 O processo do desafio deve ser:
 
-1. Faça o fork do desafio.
+1. Faça o fork do desafio. ✅
 
 2. Crie um **PROJECT.md** com a explicação de como devemos executar o projeto e com o máximo de detalhes possível do que foi feito.
 
